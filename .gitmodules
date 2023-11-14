@@ -1,0 +1,3 @@
+[submodule "lockedgame-levels"]
+	path = lockedgame-levels
+	url = https://github.com/deestan/lockedgame-levels.git
